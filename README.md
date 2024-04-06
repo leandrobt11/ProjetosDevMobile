@@ -8,7 +8,7 @@
 # Projetos Desenvolvidos 
 
 ## 1 - Meu Perfil Profissional
--Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez.
+- Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez.
 
 ## 2 - Contador de Pessoas
 -  Contador de Pessoas presentes na Loja.
